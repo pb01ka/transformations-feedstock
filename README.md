@@ -251,4 +251,5 @@ Feedstock Maintainers
 =====================
 
 * [@goanpeca](https://github.com/goanpeca/)
+* [@pb01ka](https://github.com/pb01ka/)
 
